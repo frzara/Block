@@ -3,3 +3,4 @@ reddit.com
 9gag.com
 youtube.com/shorts/
 m.youtube.com/shorts/
+m.youtube.com/shorts
