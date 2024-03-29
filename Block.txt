@@ -1,4 +1,4 @@
 pr0gramm.com
 reddit.com
 9gag.com
-www.youtube.com##div#content:nth-of-type(1) > .style-scope.ytd-rich-section-renderer
+www.youtube.com##div#content:nth-of-type(1)>.style-scope.ytd-rich-section-renderer
